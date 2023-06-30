@@ -18,3 +18,8 @@ window.addEventListener('scroll', () => {
     hill1.style.top = value * 1 + 'px';
   }
 });
+
+
+
+
+    
